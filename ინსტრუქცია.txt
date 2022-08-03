@@ -1,6 +1,0 @@
-
-ფაილში check.html შეცვალე მისამართი: /root/handshake.cap >> თარგეთის ჰენდშეიქ პატჩით
-ფაილში index.html შეცვალე Wifi სახელი Nikora >> თარგეთის ვაიფაი სახელით
-
-cd captive-portal
-cp * /tmp/www/
